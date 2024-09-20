@@ -101,7 +101,7 @@ a {
 .hero-btn {
     display: inline-block;
     background: #FB6542;
-    color: #FB6542;
+    color: #FFFFEE;
     padding: 10px 20px;
     font-weight: bold;
     border-radius: 30px;
@@ -134,7 +134,7 @@ section {
 
 .experience-section {
     background: #FFBB00;
-    color: #FB6542;
+    color: #250001;
 }
 
 .contact-section {
@@ -174,7 +174,7 @@ section {
     width: 100%;
     padding: 15px;
     background: #FB6542;
-    color: #ff416c;
+    color: #FFFFEE;
     font-size: 1rem;
     border: none;
     border-radius: 5px;
@@ -196,7 +196,7 @@ section {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 760px) {
     .navbar ul {
         display: none;
         flex-direction: column;
